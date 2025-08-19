@@ -46,6 +46,8 @@ export default function Page() {
           />
         </div>
       </div>
+      <Link href="/test">Go to Test Page</Link>
     </main>
   );
 }
+
